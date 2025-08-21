@@ -1,6 +1,7 @@
 import requests
 import json
 
+
 # URL do endpoint
 url = "http://localhost:11434/api/generate"
 
